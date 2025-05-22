@@ -46,7 +46,7 @@
     </ul>
 
     <h2>Contact</h2>
-    <p>If you have any questions, feel free to email us at <a href="mailto:info@example.com">info@example.com</a>.</p>
+    <p>If you have any questions,email us at <a href="mailto:info@example.com">info@example.com</a>.</p>
 </main>
 
 <footer>
