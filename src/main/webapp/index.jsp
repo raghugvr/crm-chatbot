@@ -4,7 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome to Devops world!!</title>
+    <title>Welcome to Devops world!! with Java home</title>
     <style>
         body {
             font-family: Arial, sans-serif;
