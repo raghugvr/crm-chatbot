@@ -36,6 +36,7 @@
 </header>
 
 <main>
+    <h1>Welcome to DevOps world</h1>
     <h1>Welcome to devops training! :) at javahome</h1>
     <p>This is a simple static HTML page. It doesn't have any dynamic content or JavaScript functionality, but it's great for basic web content or templates.</p>
     <p>This is a simple static HTML page. It doesn't have any dynamic content or JavaScript functionality, but it's great for basic web content or templates.</p>
