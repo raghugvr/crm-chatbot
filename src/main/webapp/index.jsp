@@ -32,7 +32,7 @@
 <body>
 
 <header>
-    <h1>Welcome to devops training Javahome Tech</h1>
+    <h1>Welcome to devops training Javahome Tech......</h1>
 </header>
 
 <main>
